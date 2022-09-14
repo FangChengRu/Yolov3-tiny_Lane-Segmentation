@@ -1,3 +1,7 @@
 Object Detection + Segmentation model (reference by YOLOP model)
 
-My model is Yolov3-tiny + Segmentation head
+This model is Yolov3-tiny + Segmentation head
+
+And can convert to ONNX and Kneron
+
+Success inference on Kneron KL520
