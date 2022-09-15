@@ -8,10 +8,10 @@ Success inference on Kneron KL520
 
 ### Model structure
 
-![model](pictures/yolov3Lane.opt.onnx.png)
+![model](picture/yolov3Lane.opt.onnx.png)
 
 ### Result (Inference on KL520)
 
-![result_day](output_0ace96c3-48481887.jpg)
+![result_day](picture/output_0ace96c3-48481887.jpg)
 
-![result_night](output_3c0e7240-96e390d2.jpg)
+![result_night](picture/output_3c0e7240-96e390d2.jpg)
